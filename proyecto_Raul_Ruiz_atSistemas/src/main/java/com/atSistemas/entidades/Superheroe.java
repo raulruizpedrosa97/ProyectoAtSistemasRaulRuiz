@@ -8,7 +8,7 @@ public class Superheroe extends Entidad {
 
 	private Estado estado;
 	private List<Poder> poderes;
-	private Universo universoo;
+	private Universo universo;
 
 	@Override
 	public Integer getId() {
